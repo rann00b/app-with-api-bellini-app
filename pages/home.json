@@ -1,0 +1,14 @@
+{
+  "name": "home",
+  "type": "page",
+  "url": "/home",
+  "params": {},
+  "variables": [
+    {
+      "name": "petstoreApi",
+      "type": "open-api",
+      "id": "650ad760fb417dfe892255ce"
+    }
+  ],
+  "children": []
+}
